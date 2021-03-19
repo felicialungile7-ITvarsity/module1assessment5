@@ -40,10 +40,10 @@ h6{
 a{
     font-family: helvetica,sans-serif;
     text-decoration: underline;
-    background-color:aqua;
+    background-color: chartreuse;
     padding: 5px;
 }
 a:hover{
-    background-color: yellow;
-    color:darkcyan;
+    background-color: chartreuse;
+    color:purple;
 }
